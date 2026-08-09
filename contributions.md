@@ -7,7 +7,7 @@ Objectif : **100 pull requests fusionnées** sur des dépôts que je ne possède
 | # | Dépôt | Issue | PR | Statut | Date de merge |
 |---|-------|-------|----|--------|--------------|
 | 1 | [ZFordDev/SnapDock](https://github.com/ZFordDev/SnapDock) | [#219 - Show Preview button has moved](https://github.com/ZFordDev/SnapDock/issues/219) | [#220](https://github.com/ZFordDev/SnapDock/pull/220) | 🟢 Fusionnée | 2026-08-09 |
-| 2 | [midhunkrishna/marginalia](https://github.com/midhunkrishna/marginalia) | [#6 - Highlight visibility toggle](https://github.com/midhunkrishna/marginalia/issues/6) | [#15](https://github.com/midhunkrishna/marginalia/pull/15) | 🟠 Changements demandés | - |
+| 2 | [midhunkrishna/marginalia](https://github.com/midhunkrishna/marginalia) | [#6 - Highlight visibility toggle](https://github.com/midhunkrishna/marginalia/issues/6) | [#15](https://github.com/midhunkrishna/marginalia/pull/15) | 🟡 PR ouverte (mise à jour poussée) | - |
 | 3 | [Travus/Digital_DM_Screen](https://github.com/Travus/Digital_DM_Screen) | [#37 - Allow Escape in modifier combinations](https://github.com/Travus/Digital_DM_Screen/issues/37) | [#43](https://github.com/Travus/Digital_DM_Screen/pull/43) | 🟢 Fusionnée | 2026-08-09 |
 | 4 | [jeremysball/taskferry](https://github.com/jeremysball/taskferry) | [#350 - parseNumstatLine accepts non-integer/non-finite tokens](https://github.com/jeremysball/taskferry/issues/350) | [#417](https://github.com/jeremysball/taskferry/pull/417) | 🟡 PR ouverte | - |
 | 5 | [DefNotArham/Watchly](https://github.com/DefNotArham/Watchly) | [#11 - Add character limit to chat messages](https://github.com/DefNotArham/Watchly/issues/11) | [#15](https://github.com/DefNotArham/Watchly/pull/15) | 🟢 Fusionnée | 2026-08-09 |
@@ -29,3 +29,4 @@ Objectif : **100 pull requests fusionnées** sur des dépôts que je ne possède
 - 2026-08-09 — [ZFordDev/SnapDock#220](https://github.com/ZFordDev/SnapDock/pull/220) fusionnée.
 - 2026-08-09 — [Travus/Digital_DM_Screen#43](https://github.com/Travus/Digital_DM_Screen/pull/43) fusionnée (le mainteneur a ajouté un fix complémentaire dans App.tsx + un rebase pour signature de commit).
 - 2026-08-09 — [DefNotArham/Watchly#15](https://github.com/DefNotArham/Watchly/pull/15) fusionnée.
+- 2026-08-09 — [midhunkrishna/marginalia#15](https://github.com/midhunkrishna/marginalia/pull/15) : review reçue, changements demandés traités (tests pour Alt+Shift+H, sync README/options.html/CHANGELOG) et repoussés.
