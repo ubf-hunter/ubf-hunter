@@ -14,6 +14,8 @@ Objectif : **100 pull requests fusionnées** sur des dépôts que je ne possède
 | 6 | [stellarplan/stellarplan-web](https://github.com/stellarplan/stellarplan-web) | [#3 - Loading skeleton on Plans/Activity](https://github.com/stellarplan/stellarplan-web/issues/3) | [#5](https://github.com/stellarplan/stellarplan-web/pull/5) | 🟡 PR ouverte | - |
 | 7 | [Ishannaik/warp](https://github.com/Ishannaik/warp) | [#257 - pause/cancel guard not covered by a test](https://github.com/Ishannaik/warp/issues/257) | [#259](https://github.com/Ishannaik/warp/pull/259) | 🟡 PR ouverte | - |
 | 8 | [Ishannaik/warp](https://github.com/Ishannaik/warp) | [#258 - Convert HEIC/HEIF to JPEG on receive](https://github.com/Ishannaik/warp/issues/258) | [#260](https://github.com/Ishannaik/warp/pull/260) | 🟡 PR ouverte | - |
+| 9 | [fabiocarneiro/k6-gherkin](https://github.com/fabiocarneiro/k6-gherkin) | [#1 - Scenario Outline keyword/dataTable regression coverage](https://github.com/fabiocarneiro/k6-gherkin/issues/1) | [#2](https://github.com/fabiocarneiro/k6-gherkin/pull/2) | 🟡 PR ouverte | - |
+| 10 | [nimbus-agent/create-nimbus-connector](https://github.com/nimbus-agent/create-nimbus-connector) | [#80 - resolveSdkRoot sibling/marker branch](https://github.com/nimbus-agent/create-nimbus-connector/issues/80) | [#94](https://github.com/nimbus-agent/create-nimbus-connector/pull/94) | 🟡 PR ouverte | - |
 
 ## Légende
 
