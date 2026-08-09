@@ -1,80 +1,102 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:042AFF,100:7B2FF7&height=220&section=header&text=UBF%20HUNTER&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20Full-Stack%20%E2%80%A2%20Fondateur%20%40Nova%20%E2%80%A2%20Ya%C3%A9ound%C3%A9&descAlignY=58&descSize=18" alt="Bannière" />
+```
+╭─────────────────────────────────────────────────╮
+│  ubf@nova  ~                                     │
+├─────────────────────────────────────────────────┤
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2FF7&center=true&vCenter=true&width=600&lines=Je+construis+des+produits%2C+pas+des+d%C3%A9mos;IA+%C3%97+web+%C3%97+mobile%2C+livr%C3%A9s+vite;Actuellement+%3A+Nova+%40+Douala" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=39FF14&background=0D0208&center=true&vCenter=true&width=560&height=30&lines=%24+whoami;ubf_hunter+%E2%80%94+developpeur+full-stack;%24+cat+status.txt;fondateur+%40+nova+%C2%B7+yaounde%2C+cameroun" alt="terminal" />
+
+```
+╰─────────────────────────────────────────────────╯
+```
 
 </div>
 
 <br>
 
-## À propos
+## `$ cat about.txt`
 
-Je conçois et je livre — des solutions IA, des applications mobiles et des
-plateformes web pour des clients africains, chez **[Nova](https://nova-cameroun.com)**,
-l'agence tech que j'ai fondée à Douala. Je collabore aussi avec **Alpha
-Center / Nolate Sarl**, et je garde un pied dans le design via mon
-portfolio **[ubf-creative](https://ubf-creative.vercel.app)**.
+```
+Je construis Nova, une agence tech basée à Douala : solutions IA,
+applications mobiles et plateformes web pour des clients africains.
+Je collabore aussi avec Alpha Center / Nolate Sarl.
 
-Basé à Odza / Nsimeyong, Yaoundé 🇨🇲 — toujours partant pour parler produit,
-web ou IA, et disponible pour de nouveaux projets.
+> portfolio : ubf-creative.vercel.app
+> localisation : Odza / Nsimeyong, Yaoundé
+> statut : disponible pour de nouveaux projets
+```
 
 <br>
 
-## Stack
+## `$ ls stack/`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,vite,tailwind,sass,git&theme=dark" alt="Stack technique" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,vite,tailwind,sass,git&theme=dark" alt="stack" />
 
 </div>
 
 <br>
 
-## Statistiques
+## `$ ./stats.sh`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ubf-hunter&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7B2FF7&icon_color=042AFF&text_color=C9D1D9&ring_color=042AFF" alt="Statistiques GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubf-hunter&layout=compact&hide_border=true&bg_color=0D1117&title_color=7B2FF7&text_color=C9D1D9&langs_count=8" alt="Langages les plus utilisés" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ubf-hunter&show_icons=true&count_private=true&hide_border=true&bg_color=0D0208&title_color=39FF14&icon_color=39FF14&text_color=00FF41&border_color=39FF14" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubf-hunter&layout=compact&hide_border=true&bg_color=0D0208&title_color=39FF14&text_color=00FF41&border_color=39FF14&langs_count=8" alt="langs" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=ubf-hunter&hide_border=true&background=0D1117&stroke=0D1117&ring=042AFF&fire=7B2FF7&currStreakLabel=7B2FF7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=6E7681" alt="Streak GitHub" />
+<img src="https://streak-stats.demolab.com?user=ubf-hunter&hide_border=true&background=0D0208&stroke=39FF14&ring=39FF14&fire=00FF41&currStreakLabel=39FF14&sideLabels=00FF41&currStreakNum=39FF14&sideNums=00FF41&dates=147014&border=39FF14" alt="streak" />
 
 </div>
 
 <br>
 
-## Trophées
+## `$ ./trophies.sh --all`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ubf-hunter&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophées GitHub" />
+<img src="https://github-profile-trophy.vercel.app/?username=ubf-hunter&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophées" />
 
 </div>
 
 <br>
 
-## Contributions
+## `$ git log --graph --oneline`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ubf-hunter/ubf-hunter/output/snake.svg" alt="Animation du graphe de contributions" />
+<img src="https://raw.githubusercontent.com/ubf-hunter/ubf-hunter/output/snake.svg" alt="contributions" />
 
 </div>
 
 <br>
 
-## Me retrouver
+## `$ contact --help`
+
+```
+USAGE
+    contact [OPTION]
+
+OPTIONS
+```
 
 <div align="center">
 
-<a href="https://github.com/ubf-hunter"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://nova-cameroun.com"><img src="https://img.shields.io/badge/Nova-042AFF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://ubf-creative.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://nova-cameroun.com/contact"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://github.com/ubf-hunter"><img src="https://img.shields.io/badge/--github-0D0208?style=flat-square&logo=github&logoColor=39FF14" /></a>
+<a href="https://nova-cameroun.com"><img src="https://img.shields.io/badge/--nova-0D0208?style=flat-square&logo=googlechrome&logoColor=39FF14" /></a>
+<a href="https://ubf-creative.vercel.app"><img src="https://img.shields.io/badge/--portfolio-0D0208?style=flat-square&logo=vercel&logoColor=39FF14" /></a>
+<a href="https://nova-cameroun.com/contact"><img src="https://img.shields.io/badge/--whatsapp-0D0208?style=flat-square&logo=whatsapp&logoColor=39FF14" /></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:042AFF&height=120&section=footer" alt="Pied de page" />
+<div align="center">
+
+```
+$ _
+```
+
+</div>
