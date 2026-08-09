@@ -1,0 +1,36 @@
+<svg width="140" height="150" viewBox="0 0 140 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- queue, se balance doucement -->
+  <path d="M 108 118 C 138 108 144 68 118 46" fill="none" stroke="#1B8A8A"
+        stroke-width="9" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 108 118; 10 108 118; 0 108 118; -6 108 118; 0 108 118"
+      dur="4.5s" repeatCount="indefinite" />
+  </path>
+
+  <!-- oreilles -->
+  <polygon points="38,42 30,10 55,32" fill="#1B8A8A" />
+  <polygon points="82,32 107,10 100,42" fill="#1B8A8A" />
+
+  <!-- tete -->
+  <circle cx="70" cy="58" r="34" fill="#1B8A8A" />
+
+  <!-- corps, assis -->
+  <ellipse cx="70" cy="120" rx="46" ry="34" fill="#1B8A8A" />
+
+  <!-- moustaches -->
+  <line x1="40" y1="64" x2="14" y2="60" stroke="#F4F6F5" stroke-width="1.5" stroke-linecap="round" opacity="0.9" />
+  <line x1="40" y1="70" x2="14" y2="72" stroke="#F4F6F5" stroke-width="1.5" stroke-linecap="round" opacity="0.9" />
+  <line x1="100" y1="64" x2="126" y2="60" stroke="#F4F6F5" stroke-width="1.5" stroke-linecap="round" opacity="0.9" />
+  <line x1="100" y1="70" x2="126" y2="72" stroke="#F4F6F5" stroke-width="1.5" stroke-linecap="round" opacity="0.9" />
+
+  <!-- yeux, clignent -->
+  <ellipse cx="59" cy="55" rx="4.5" ry="7" fill="#F4F6F5">
+    <animate attributeName="ry" values="7;7;0.5;7;7" keyTimes="0;0.85;0.9;0.95;1" dur="4s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse cx="81" cy="55" rx="4.5" ry="7" fill="#F4F6F5">
+    <animate attributeName="ry" values="7;7;0.5;7;7" keyTimes="0;0.85;0.9;0.95;1" dur="4s" repeatCount="indefinite" />
+  </ellipse>
+
+  <!-- truffe -->
+  <polygon points="70,66 65,72 75,72" fill="#F4F6F5" opacity="0.9" />
+</svg>
