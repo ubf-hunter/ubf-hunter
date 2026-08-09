@@ -6,8 +6,8 @@ Objectif : **100 pull requests fusionnées** sur des dépôts que je ne possède
 
 | # | Dépôt | Issue | PR | Statut | Date de merge |
 |---|-------|-------|----|--------|--------------|
-| 1 | [ZFordDev/SnapDock](https://github.com/ZFordDev/SnapDock) | [#219 - Show Preview button has moved](https://github.com/ZFordDev/SnapDock/issues/219) | - | 🔵 En cours | - |
-| 2 | [midhunkrishna/marginalia](https://github.com/midhunkrishna/marginalia) | [#6 - Highlight visibility toggle](https://github.com/midhunkrishna/marginalia/issues/6) | - | 🔵 En cours | - |
+| 1 | [ZFordDev/SnapDock](https://github.com/ZFordDev/SnapDock) | [#219 - Show Preview button has moved](https://github.com/ZFordDev/SnapDock/issues/219) | [#220](https://github.com/ZFordDev/SnapDock/pull/220) | 🟡 PR ouverte | - |
+| 2 | [midhunkrishna/marginalia](https://github.com/midhunkrishna/marginalia) | [#6 - Highlight visibility toggle](https://github.com/midhunkrishna/marginalia/issues/6) | [#15](https://github.com/midhunkrishna/marginalia/pull/15) | 🟡 PR ouverte | - |
 
 ## Légende
 
