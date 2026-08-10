@@ -2,14 +2,14 @@
 
 Objectif : **100 pull requests fusionnées** sur des dépôts que je ne possède pas (12 derniers mois), pour être éligible au programme [Claude for Open Source](https://claude.com/contact-sales/claude-for-oss) (chemin "Contributeur actif").
 
-**Progression : 6 / 100 fusionnées**
+**Progression : 8 / 100 fusionnées**
 
 | # | Dépôt | Issue | PR | Statut | Date de merge |
 |---|-------|-------|----|--------|--------------|
 | 1 | [ZFordDev/SnapDock](https://github.com/ZFordDev/SnapDock) | [#219 - Show Preview button has moved](https://github.com/ZFordDev/SnapDock/issues/219) | [#220](https://github.com/ZFordDev/SnapDock/pull/220) | 🟢 Fusionnée | 2026-08-09 |
-| 2 | [midhunkrishna/marginalia](https://github.com/midhunkrishna/marginalia) | [#6 - Highlight visibility toggle](https://github.com/midhunkrishna/marginalia/issues/6) | [#15](https://github.com/midhunkrishna/marginalia/pull/15) | 🟡 PR ouverte (format corrigé, en attente de merge) | - |
+| 2 | [midhunkrishna/marginalia](https://github.com/midhunkrishna/marginalia) | [#6 - Highlight visibility toggle](https://github.com/midhunkrishna/marginalia/issues/6) | [#15](https://github.com/midhunkrishna/marginalia/pull/15) | 🟢 Fusionnée | 2026-08-10 |
 | 3 | [Travus/Digital_DM_Screen](https://github.com/Travus/Digital_DM_Screen) | [#37 - Allow Escape in modifier combinations](https://github.com/Travus/Digital_DM_Screen/issues/37) | [#43](https://github.com/Travus/Digital_DM_Screen/pull/43) | 🟢 Fusionnée | 2026-08-09 |
-| 4 | [jeremysball/taskferry](https://github.com/jeremysball/taskferry) | [#350 - parseNumstatLine accepts non-integer/non-finite tokens](https://github.com/jeremysball/taskferry/issues/350) | [#417](https://github.com/jeremysball/taskferry/pull/417) | 🟡 PR ouverte | - |
+| 4 | [jeremysball/taskferry](https://github.com/jeremysball/taskferry) | [#350 - parseNumstatLine accepts non-integer/non-finite tokens](https://github.com/jeremysball/taskferry/issues/350) | [#417](https://github.com/jeremysball/taskferry/pull/417) | 🟢 Fusionnée | 2026-08-10 |
 | 5 | [DefNotArham/Watchly](https://github.com/DefNotArham/Watchly) | [#11 - Add character limit to chat messages](https://github.com/DefNotArham/Watchly/issues/11) | [#15](https://github.com/DefNotArham/Watchly/pull/15) | 🟢 Fusionnée | 2026-08-09 |
 | 6 | [stellarplan/stellarplan-web](https://github.com/stellarplan/stellarplan-web) | [#3 - Loading skeleton on Plans/Activity](https://github.com/stellarplan/stellarplan-web/issues/3) | [#5](https://github.com/stellarplan/stellarplan-web/pull/5) | 🟢 Fusionnée | 2026-08-09 |
 | 7 | [Ishannaik/warp](https://github.com/Ishannaik/warp) | [#257 - pause/cancel guard not covered by a test](https://github.com/Ishannaik/warp/issues/257) | [#259](https://github.com/Ishannaik/warp/pull/259) | 🟠 Changements demandés (corrigé) | - |
@@ -54,3 +54,5 @@ Objectif : **100 pull requests fusionnées** sur des dépôts que je ne possède
 - 2026-08-10 — [nimbus-agent/create-nimbus-connector#94](https://github.com/nimbus-agent/create-nimbus-connector/pull/94) fusionnée.
 - 2026-08-10 — [Fiestaboard/FiestaUI#204](https://github.com/Fiestaboard/FiestaUI/pull/204) : 2 workflows "Claude Auto-Review" échouent par design (bots exigeant un accès en écriture, refusé aux contributeurs externes) — rien à corriger côté PR. Le vrai CI est en `action_required`, en attente d'approbation manuelle du mainteneur.
 - 2026-08-10 — 2 nouvelles PR ouvertes sur des dépôts francophones (demande explicite) : [cadence-mobile#107](https://github.com/ralphgabriel04/cadence-mobile/pull/107), [zoned#136](https://github.com/alarboulletmarin/zoned/pull/136). Pour zoned, préfixes d'ID et nombre de tests vérifiés indépendamment plutôt que recopiés depuis l'issue (déjà obsolètes).
+- 2026-08-10 — [midhunkrishna/marginalia#15](https://github.com/midhunkrishna/marginalia/pull/15) fusionnée. Message de remerciement posté.
+- 2026-08-10 — [jeremysball/taskferry#417](https://github.com/jeremysball/taskferry/pull/417) fusionnée. Message de remerciement posté.
