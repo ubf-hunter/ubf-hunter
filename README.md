@@ -73,6 +73,7 @@ web ou IA, et disponible pour de nouveaux projets.
 <a href="https://github.com/ubf-hunter"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://nova-cameroun.com"><img src="https://img.shields.io/badge/Nova-042AFF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://ubf-creative.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://nolate.org/equipe"><img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://nova-cameroun.com/contact"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>
