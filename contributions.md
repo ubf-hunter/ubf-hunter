@@ -16,6 +16,10 @@ Objectif : **100 pull requests fusionnées** sur des dépôts que je ne possède
 | 8 | [Ishannaik/warp](https://github.com/Ishannaik/warp) | [#258 - Convert HEIC/HEIF to JPEG on receive](https://github.com/Ishannaik/warp/issues/258) | [#260](https://github.com/Ishannaik/warp/pull/260) | 🟠 Changements demandés (corrigé) | - |
 | 9 | [fabiocarneiro/k6-gherkin](https://github.com/fabiocarneiro/k6-gherkin) | [#1 - Scenario Outline keyword/dataTable regression coverage](https://github.com/fabiocarneiro/k6-gherkin/issues/1) | [#2](https://github.com/fabiocarneiro/k6-gherkin/pull/2) | 🟡 PR ouverte | - |
 | 10 | [nimbus-agent/create-nimbus-connector](https://github.com/nimbus-agent/create-nimbus-connector) | [#80 - resolveSdkRoot sibling/marker branch](https://github.com/nimbus-agent/create-nimbus-connector/issues/80) | [#94](https://github.com/nimbus-agent/create-nimbus-connector/pull/94) | 🟡 PR ouverte (CLA signée, description mise en forme) | - |
+| 11 | [MrAshki/Questline_Product](https://github.com/MrAshki/Questline_Product) | [#3 - Password utility regression tests](https://github.com/MrAshki/Questline_Product/issues/3) | [#5](https://github.com/MrAshki/Questline_Product/pull/5) | 🟡 PR ouverte | - |
+| 12 | [Fiestaboard/FiestaUI](https://github.com/Fiestaboard/FiestaUI) | [#168 - Code off-scale radius](https://github.com/Fiestaboard/FiestaUI/issues/168) | [#204](https://github.com/Fiestaboard/FiestaUI/pull/204) | 🟡 PR ouverte | - |
+| 13 | [alesanabriav7/sonos-cli](https://github.com/alesanabriav7/sonos-cli) | [#1 - Redacted doctor output mode](https://github.com/alesanabriav7/sonos-cli/issues/1) | [#4](https://github.com/alesanabriav7/sonos-cli/pull/4) | 🟡 PR ouverte | - |
+| 14 | [KaerOrg/Kaer](https://github.com/KaerOrg/Kaer) | [#449 - TechniqueInfoSheet sources → ui/Disclosure](https://github.com/KaerOrg/Kaer/issues/449) | [#450](https://github.com/KaerOrg/Kaer/pull/450) | 🟡 PR ouverte | - |
 
 ## Légende
 
@@ -41,3 +45,4 @@ Objectif : **100 pull requests fusionnées** sur des dépôts que je ne possède
 - 2026-08-10 — [midhunkrishna/marginalia#15](https://github.com/midhunkrishna/marginalia/pull/15) : CI lint échouait sur le formatage prettier d'options.html, corrigé et repoussé.
 - 2026-08-10 — [nimbus-agent/create-nimbus-connector#94](https://github.com/nimbus-agent/create-nimbus-connector/pull/94) : CLA individuelle signée (requis par le bot avant merge), description de la PR remise en forme selon le template du repo (gates explicitement marqués N/A ou exécutés avec sortie réelle).
 - 2026-08-10 — [Ishannaik/warp#260](https://github.com/Ishannaik/warp/pull/260) : review Greptile, 2 points valides corrigés (conversion HEIC non bornée → risque mémoire/tab freeze sur gros fichiers ; échecs canvas non catchés → promesse rejetée non gérée) et repoussés, avec mutation-test sur le nouveau garde-fou.
+- 2026-08-10 — 4 nouvelles PR ouvertes : [Questline_Product#5](https://github.com/MrAshki/Questline_Product/pull/5), [FiestaUI#204](https://github.com/Fiestaboard/FiestaUI/pull/204), [sonos-cli#4](https://github.com/alesanabriav7/sonos-cli/pull/4), [Kaer#450](https://github.com/KaerOrg/Kaer/pull/450).
