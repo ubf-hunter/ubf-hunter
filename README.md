@@ -25,7 +25,7 @@ web ou IA, et disponible pour de nouveaux projets.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,vite,tailwind,sass,git&theme=dark" alt="Stack technique" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,electron,nodejs,vite,tailwind,sass,git,github&theme=dark" alt="Stack technique" />
 
 </div>
 
