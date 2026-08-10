@@ -20,6 +20,7 @@ Objectif : **100 pull requests fusionnées** sur des dépôts que je ne possède
 | 12 | [Fiestaboard/FiestaUI](https://github.com/Fiestaboard/FiestaUI) | [#168 - Code off-scale radius](https://github.com/Fiestaboard/FiestaUI/issues/168) | [#204](https://github.com/Fiestaboard/FiestaUI/pull/204) | 🟡 PR ouverte | - |
 | 13 | [alesanabriav7/sonos-cli](https://github.com/alesanabriav7/sonos-cli) | [#1 - Redacted doctor output mode](https://github.com/alesanabriav7/sonos-cli/issues/1) | [#4](https://github.com/alesanabriav7/sonos-cli/pull/4) | 🟡 PR ouverte | - |
 | 14 | [KaerOrg/Kaer](https://github.com/KaerOrg/Kaer) | [#449 - TechniqueInfoSheet sources → ui/Disclosure](https://github.com/KaerOrg/Kaer/issues/449) | [#450](https://github.com/KaerOrg/Kaer/pull/450) | 🟡 PR ouverte | - |
+| 15 | [mk-techi/mcp-seo-audit](https://github.com/mk-techi/mcp-seo-audit) | [#6 - Detect redirect chains in crawl_site](https://github.com/mk-techi/mcp-seo-audit/issues/6) | [#8](https://github.com/mk-techi/mcp-seo-audit/pull/8) | 🟡 PR ouverte | - |
 
 ## Légende
 
@@ -46,3 +47,4 @@ Objectif : **100 pull requests fusionnées** sur des dépôts que je ne possède
 - 2026-08-10 — [nimbus-agent/create-nimbus-connector#94](https://github.com/nimbus-agent/create-nimbus-connector/pull/94) : CLA individuelle signée (requis par le bot avant merge), description de la PR remise en forme selon le template du repo (gates explicitement marqués N/A ou exécutés avec sortie réelle).
 - 2026-08-10 — [Ishannaik/warp#260](https://github.com/Ishannaik/warp/pull/260) : review Greptile, 2 points valides corrigés (conversion HEIC non bornée → risque mémoire/tab freeze sur gros fichiers ; échecs canvas non catchés → promesse rejetée non gérée) et repoussés, avec mutation-test sur le nouveau garde-fou.
 - 2026-08-10 — 4 nouvelles PR ouvertes : [Questline_Product#5](https://github.com/MrAshki/Questline_Product/pull/5), [FiestaUI#204](https://github.com/Fiestaboard/FiestaUI/pull/204), [sonos-cli#4](https://github.com/alesanabriav7/sonos-cli/pull/4), [Kaer#450](https://github.com/KaerOrg/Kaer/pull/450).
+- 2026-08-10 — [mk-techi/mcp-seo-audit#8](https://github.com/mk-techi/mcp-seo-audit/pull/8) ouverte — 15ème PR, première en mode pédagogique (explications détaillées du code et de GitHub à la demande de l'utilisateur).
