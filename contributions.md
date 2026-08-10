@@ -21,6 +21,8 @@ Objectif : **100 pull requests fusionnées** sur des dépôts que je ne possède
 | 13 | [alesanabriav7/sonos-cli](https://github.com/alesanabriav7/sonos-cli) | [#1 - Redacted doctor output mode](https://github.com/alesanabriav7/sonos-cli/issues/1) | [#4](https://github.com/alesanabriav7/sonos-cli/pull/4) | 🟡 PR ouverte | - |
 | 14 | [KaerOrg/Kaer](https://github.com/KaerOrg/Kaer) | [#449 - TechniqueInfoSheet sources → ui/Disclosure](https://github.com/KaerOrg/Kaer/issues/449) | [#450](https://github.com/KaerOrg/Kaer/pull/450) | 🟡 PR ouverte | - |
 | 15 | [mk-techi/mcp-seo-audit](https://github.com/mk-techi/mcp-seo-audit) | [#6 - Detect redirect chains in crawl_site](https://github.com/mk-techi/mcp-seo-audit/issues/6) | [#8](https://github.com/mk-techi/mcp-seo-audit/pull/8) | 🟡 PR ouverte | - |
+| 16 | [ralphgabriel04/cadence-mobile](https://github.com/ralphgabriel04/cadence-mobile) 🇫🇷 | [#100 - Rétablir le type-check TypeScript](https://github.com/ralphgabriel04/cadence-mobile/issues/100) | [#107](https://github.com/ralphgabriel04/cadence-mobile/pull/107) | 🟡 PR ouverte | - |
+| 17 | [alarboulletmarin/zoned](https://github.com/alarboulletmarin/zoned) 🇫🇷 | [#126 - CONTRIBUTING.md parité EN/accents](https://github.com/alarboulletmarin/zoned/issues/126) | [#136](https://github.com/alarboulletmarin/zoned/pull/136) | 🟡 PR ouverte | - |
 
 ## Légende
 
@@ -51,3 +53,4 @@ Objectif : **100 pull requests fusionnées** sur des dépôts que je ne possède
 - 2026-08-10 — [fabiocarneiro/k6-gherkin#2](https://github.com/fabiocarneiro/k6-gherkin/pull/2) fusionnée.
 - 2026-08-10 — [nimbus-agent/create-nimbus-connector#94](https://github.com/nimbus-agent/create-nimbus-connector/pull/94) fusionnée.
 - 2026-08-10 — [Fiestaboard/FiestaUI#204](https://github.com/Fiestaboard/FiestaUI/pull/204) : 2 workflows "Claude Auto-Review" échouent par design (bots exigeant un accès en écriture, refusé aux contributeurs externes) — rien à corriger côté PR. Le vrai CI est en `action_required`, en attente d'approbation manuelle du mainteneur.
+- 2026-08-10 — 2 nouvelles PR ouvertes sur des dépôts francophones (demande explicite) : [cadence-mobile#107](https://github.com/ralphgabriel04/cadence-mobile/pull/107), [zoned#136](https://github.com/alarboulletmarin/zoned/pull/136). Pour zoned, préfixes d'ID et nombre de tests vérifiés indépendamment plutôt que recopiés depuis l'issue (déjà obsolètes).
