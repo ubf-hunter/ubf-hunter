@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:042AFF,100:7B2FF7&height=220&section=header&text=UBF%20HUNTER&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20Full-Stack%20%E2%80%A2%20Fondateur%20%40Nova%20%E2%80%A2%20Ya%C3%A9ound%C3%A9&descAlignY=58&descSize=18" alt="Bannière" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:042AFF,100:7B2FF7&height=220&section=header&text=UBF%20HUNTER&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20Full-Stack%20%E2%80%A2E2%80%A2%20Ya%C3%A9ound%C3%A9&descAlignY=58&descSize=18" alt="Bannière" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2FF7&center=true&vCenter=true&width=600&lines=Je+construis+des+produits%2C+pas+des+d%C3%A9mos;IA+%C3%97+web+%C3%97+mobile%2C+livr%C3%A9s+vite;Actuellement+%3A+Nova+%40+Douala" alt="Typing SVG" />
 
