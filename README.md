@@ -11,9 +11,9 @@
 ## À propos
 
 Je conçois et je livre — des solutions IA, des applications mobiles et des
-plateformes web pour des clients africains, chez **[Nova](https://nova-cameroun.com)**,
-l'agence tech que j'ai fondée à Douala. Je collabore aussi avec **Alpha
-Center / Nolate Sarl**, et je garde un pied dans le design via mon
+plateformes web pour des clients africains comme **[Nova](https://nova-cameroun.com)**,
+l'agence tech à Douala. Je suis aussi le co-fondateur de **Alpha
+Center** et developpeur chez **Nolate Sarl** , et je garde un pied dans le design via mon
 portfolio **[ubf-creative](https://ubf-creative.vercel.app)**.
 
 Basé à Odza / Nsimeyong, Yaoundé 🇨🇲 — toujours partant pour parler produit,
