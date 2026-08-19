@@ -23,6 +23,9 @@ Objectif : **100 pull requests fusionnées** sur des dépôts que je ne possède
 | 15 | [mk-techi/mcp-seo-audit](https://github.com/mk-techi/mcp-seo-audit) | [#6 - Detect redirect chains in crawl_site](https://github.com/mk-techi/mcp-seo-audit/issues/6) | [#8](https://github.com/mk-techi/mcp-seo-audit/pull/8) | 🟡 PR ouverte | - |
 | 16 | [ralphgabriel04/cadence-mobile](https://github.com/ralphgabriel04/cadence-mobile) 🇫🇷 | [#100 - Rétablir le type-check TypeScript](https://github.com/ralphgabriel04/cadence-mobile/issues/100) | [#107](https://github.com/ralphgabriel04/cadence-mobile/pull/107) | 🟡 PR ouverte | - |
 | 17 | [alarboulletmarin/zoned](https://github.com/alarboulletmarin/zoned) 🇫🇷 | [#126 - CONTRIBUTING.md parité EN/accents](https://github.com/alarboulletmarin/zoned/issues/126) | [#136](https://github.com/alarboulletmarin/zoned/pull/136) | 🟡 PR ouverte | - |
+| 18 | [Ramzi-Abidi/filebouncer](https://github.com/Ramzi-Abidi/filebouncer) | [#16 - Faux positif sur les nombres négatifs en CSV](https://github.com/Ramzi-Abidi/filebouncer/issues/16) | [#43](https://github.com/Ramzi-Abidi/filebouncer/pull/43) | 🟡 PR ouverte | - |
+| 19 | [Ramzi-Abidi/filebouncer](https://github.com/Ramzi-Abidi/filebouncer) | [#17 - CLI doit rejeter un dossier proprement](https://github.com/Ramzi-Abidi/filebouncer/issues/17) | [#44](https://github.com/Ramzi-Abidi/filebouncer/pull/44) | 🟡 PR ouverte | - |
+| 20 | [ralphgabriel04/cadence-mobile](https://github.com/ralphgabriel04/cadence-mobile) 🇫🇷 | [#101 - Fixtures du view-model Today](https://github.com/ralphgabriel04/cadence-mobile/issues/101) | [#124](https://github.com/ralphgabriel04/cadence-mobile/pull/124) | 🟡 PR ouverte | - |
 
 ## Légende
 
@@ -36,6 +39,7 @@ Objectif : **100 pull requests fusionnées** sur des dépôts que je ne possède
 
 - [p-clements/FauxHollowsProbabilisticSolver](https://github.com/p-clements/FauxHollowsProbabilisticSolver) — les 4 "good first issue" ouvertes (#28, #7, #6, #30) étaient déjà corrigées par un commit antérieur non lié aux issues ; jamais fermées sur GitHub.
 - [stellarplan/stellarplan-api](https://github.com/stellarplan/stellarplan-api) — #3 (endpoint `/api/v1/health`) déjà implémenté et câblé, plus complet que ce que demandait l'issue.
+- [hiero-hackers/sdk-automations](https://github.com/hiero-hackers/sdk-automations) — process du dépôt exige de commenter l'issue et d'attendre une assignation avant d'ouvrir une PR, incompatible avec le flux direct fork→fix→PR utilisé ici.
 
 ## Historique
 
@@ -58,3 +62,4 @@ Objectif : **100 pull requests fusionnées** sur des dépôts que je ne possède
 - 2026-08-10 — [jeremysball/taskferry#417](https://github.com/jeremysball/taskferry/pull/417) fusionnée. Message de remerciement posté.
 - 2026-08-10 — [Fiestaboard/FiestaUI#204](https://github.com/Fiestaboard/FiestaUI/pull/204) fusionnée via merge queue.
 - 2026-08-10 — [Ishannaik/warp#259](https://github.com/Ishannaik/warp/pull/259) et [#260](https://github.com/Ishannaik/warp/pull/260) fusionnées — verdicts détaillés du mainteneur confirmant les correctifs CodeRabbit/Greptile vérifiés en place.
+- 2026-08-10 — 3 nouvelles PR ouvertes : [filebouncer#43](https://github.com/Ramzi-Abidi/filebouncer/pull/43) (faux positif nombres négatifs en CSV), [filebouncer#44](https://github.com/Ramzi-Abidi/filebouncer/pull/44) (CLI rejette un dossier proprement), [cadence-mobile#124](https://github.com/ralphgabriel04/cadence-mobile/pull/124) (fixtures du view-model Today, dépôt francophone). Ouvertes via `gh pr create --repo` sans clone local, directement sur les branches déjà poussées.
