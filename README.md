@@ -16,6 +16,10 @@ l'agence tech à Douala. Je suis aussi le co-fondateur de **Alpha
 Center** et developpeur chez **Nolate Sarl** , et je garde un pied dans le design via mon
 portfolio **[ubf-creative](https://ubf-creative.vercel.app)**.
 
+J'ai conçu et développé le site de **[CAPSYC](https://capsyc.cm)** — l'Association
+camerounaise de psycholinguistique et de linguistique clinique — avec
+**[Nolate](https://nolate.org)**.
+
 Basé à Odza / Nsimeyong, Yaoundé 🇨🇲 — toujours partant pour parler produit,
 web ou IA, et disponible pour de nouveaux projets.
 
@@ -74,6 +78,7 @@ web ou IA, et disponible pour de nouveaux projets.
 <a href="https://nova-cameroun.com"><img src="https://img.shields.io/badge/Nova-042AFF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://ubf-creative.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://nolate.org/equipe"><img src="https://img.shields.io/badge/nolate%20SARL%20Team-8A2BE2e" /></a>
+<a href="https://capsyc.cm"><img src="https://img.shields.io/badge/CAPSYC-006EB4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://nova-cameroun.com/contact"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>
